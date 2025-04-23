@@ -7,7 +7,7 @@
 **`Cursando Ciência da Computação`**
 
 
-👾Me chamo Kelvin Costa Maues, tenho 18 anos e sou natural do Amazonas. No ano de 2024 me formei como técnico de informática na Fundação Matias Machline e foi lá que começou minhas primeiras experiencias com a programação. Hoje, estou cursando ciencia da computação na Universidade Paulista e Estagiando na empresa Visteon, onde continuo enriquecendo meus conhecimentos na área👨🏻‍💻.
+👾Meu nome é Kelvin Costa Maues, tenho 18 anos e sou natural do Amazonas. Em 2024, concluí o curso técnico em Informática na Fundação Matias Machline, onde tive meu primeiro contato com a programação e iniciei minha trajetória no mundo da tecnologia. Atualmente, estou cursando Ciência da Computação na Universidade Paulista (UNIP) e atuo como estagiário na empresa Visteon, onde continuo aprimorando meus conhecimentos e desenvolvendo habilidades na área de tecnologia.👨🏻‍💻
 
 **`@kelvinmxz`**
 
