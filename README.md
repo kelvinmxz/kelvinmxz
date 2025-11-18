@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </div>
 
-## Oiii! Eu sou o Kelvin Maues, estudante de Ciência da Computação e estagiário na Visteon! 👨🏻‍💻
+## Eaí! Eu sou o Kelvin Maues, estudante de Ciência da Computação e estagiário na Visteon! 👨🏻‍💻
 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 
