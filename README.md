@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </div>
 
-## Eaí! Eu sou o Kelvin Maues, estudante de Ciência da Computação e estagiário na Visteon! 👨🏻‍💻
+## Oiii! Eu sou o Kelvin Maues, estudante de Ciência da Computação e estagiário na Visteon! 👨🏻‍💻
 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 
@@ -48,7 +48,11 @@ Meu nome é Kelvin Costa Maues, tenho 18 anos e sou natural do Amazonas. Em 2024
 ## 🐍 Contribuições
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kelvinmxz/kelvinmxz/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
   
 ## 📫 Vamos nos conectar!
