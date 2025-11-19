@@ -15,7 +15,6 @@ Meu nome é Kelvin Costa Maues, tenho 18 anos e sou natural do Amazonas. Em 2024
 -  Amazonas, Brasil
 
 <br>
-
 ## 🛠️ Tecnologias & Ferramentas
 
 <div style="display: inline_block" align="center"><br>
