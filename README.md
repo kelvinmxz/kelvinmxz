@@ -9,11 +9,10 @@
 Meu nome é Kelvin Costa Maues, tenho 18 anos e sou natural do Amazonas. Em 2024, concluí o curso técnico em Informática na Fundação Matias Machline, onde tive meu primeiro contato com a programação e iniciei minha trajetória no mundo da tecnologia. Atualmente, estou cursando Ciência da Computação na Universidade Paulista (UNIP) e atuo como estagiário na empresa Visteon, onde continuo aprimorando meus conhecimentos e desenvolvendo habilidades na área de tecnologia. 🚀
 
 ### 🚀 Sobre mim:
-- 🎓 Estudante de **Ciência da Computação** na UNIP
-- 💼 Estagiário na **Visteon**
-- 🌱 Aprendendo **React** e **Python**
-- 📍 Amazonas, Brasil
-- ⚡ Fato curioso: Apaixonado por tecnologia desde sempre!
+-  Estudante de **Ciência da Computação** 
+-  Estagiário na **Visteon**
+-  Aprendendo **React** e **Python**
+-  Amazonas, Brasil
 
 <br><br><br>
 
@@ -32,18 +31,18 @@ Meu nome é Kelvin Costa Maues, tenho 18 anos e sou natural do Amazonas. Em 2024
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
+<!-- <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kelvinmxz&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinmxz&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinmxz&theme=tokyonight&hide_border=true&locale=pt-br" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvinmxz&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=true" />
-</div>
+</div> -->
 
 ## 🐍 Contribuições
 
