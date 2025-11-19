@@ -4,9 +4,15 @@
 
 ## Eaí! Eu sou o Kelvin Maues, estudante de Ciência da Computação e estagiário na Visteon! 👨🏻‍💻
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="280" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 
-Meu nome é Kelvin Costa Maues, tenho 18 anos e sou natural do Amazonas. Em 2024, concluí o curso técnico em Informática na Fundação Matias Machline, onde tive meu primeiro contato com a programação e iniciei minha trajetória no mundo da tecnologia. Atualmente, estou cursando Ciência da Computação na Universidade Paulista (UNIP) e atuo como estagiário na empresa Visteon, onde continuo aprimorando meus conhecimentos e desenvolvendo habilidades na área de tecnologia. 🚀
+<div align="left">
+
+Meu nome é Kelvin Costa Maues, tenho 18 anos e sou natural do Amazonas. Em 2024, concluí o curso técnico em Informática na Fundação Matias Machline, onde tive meu primeiro contato com a programação e iniciei minha trajetória no mundo da tecnologia. 
+
+Atualmente, estou cursando Ciência da Computação e atuo como estagiário na empresa Visteon, onde continuo aprimorando meus conhecimentos e desenvolvendo habilidades na área de tecnologia. 🚀
+
+</div>
 
 ### 🚀 Sobre mim:
 -  Estudante de **Ciência da Computação** 
