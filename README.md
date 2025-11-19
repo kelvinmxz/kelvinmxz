@@ -14,7 +14,7 @@ Meu nome é Kelvin Costa Maues, tenho 18 anos e sou natural do Amazonas. Em 2024
 -  Aprendendo **React** e **Python**
 -  Amazonas, Brasil
 
-<br><br><br>
+<br>
 
 ## 🛠️ Tecnologias & Ferramentas
 
