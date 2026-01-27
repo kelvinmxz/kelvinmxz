@@ -8,7 +8,7 @@
 
 <div style="text-align: left; margin-right: 380px;">
 
-Meu nome é Kelvin Costa Maues, tenho 18 anos e sou natural do Amazonas. Em 2024, concluí o curso técnico em Informática na Fundação Matias Machline, onde tive meu primeiro contato com a programação e iniciei minha trajetória no mundo da tecnologia. 
+Meu nome é Kelvin Costa Maues, tenho 19 anos e sou natural do Amazonas. Em 2024, concluí o curso técnico em Informática na Fundação Matias Machline, onde tive meu primeiro contato com a programação e iniciei minha trajetória no mundo da tecnologia. 
 
 Atualmente, estou cursando Ciência da Computação e atuo como estagiário na empresa Visteon, onde continuo aprimorando meus conhecimentos e desenvolvendo habilidades na área de tecnologia. 🚀
 
