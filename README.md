@@ -27,7 +27,7 @@ Atualmente, estou cursando Ciência da Computação e atuo como estagiário na e
 <div style="display: inline_block" align="center"><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,java,javascript,php,react,node,html,css,mysql,python" />
+    <img src="https://skillicons.dev/icons?i=git,c,java,javascript,php,react,nodejs,html,css,mysql,python" />
   </a>
 </p>
 </div>
